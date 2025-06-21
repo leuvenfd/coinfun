@@ -1,0 +1,16 @@
+{
+    "name": "TRX",
+    "description": "Tron",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+ 
+    "traits": [
+        {
+            "traitType": "",
+            "value": ""
+        },
+        {
+            "traitType": "",
+            "value": ""
+        }
+    ]
+}
