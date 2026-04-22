@@ -1,6 +1,6 @@
 {
   "name": "LEUVENFLYERS",
-  "short_name": "LFD",
+  "short_name": "LeuvenFlyers",
   "description": "NILL",
   "start_url": ".",
   "display": "standalone",
@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/leuvenfd/coinfun/refs/heads/main/Copy%20of%20NFT.jpg",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJMqBnOYk-tBMty3RKbCxpX3JJQYEMvNc2A&s",
       "sizes": "192x192",
       "type": "image/jpeg"
     },
     {
-      "src": "https://raw.githubusercontent.com/leuvenfd/coinfun/refs/heads/main/Copy%20of%20NFT.jpg",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJMqBnOYk-tBMty3RKbCxpX3JJQYEMvNc2A&s",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
